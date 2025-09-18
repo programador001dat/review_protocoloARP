@@ -12,7 +12,7 @@ div.container-context-bainner section {
     width: auto;
     cursor: pointer;
     height: 200px;
-    background-image: url("/banner.gif");
+    background-image: url("banner.gif");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -163,4 +163,5 @@ div.container-context-sidebar div.sidebar a:hover {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
+
 
