@@ -1,0 +1,166 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* Codigo do Header*/
+div.container-context-bainner div {
+    width: 100%;
+    height: 200px;
+}
+div.container-context-bainner section {
+    width: auto;
+    cursor: pointer;
+    height: 200px;
+    background-image: url("/banner.gif");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 1px;
+}
+div.container-context-bainner ul {
+    display: flex;
+}
+div.container-context-bainner li {
+    list-style: none;
+    width: auto;
+    height: auto;
+    margin: auto 50px auto 10px;
+}
+div.container-context-bainner a {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 4px;
+    color: white;
+    margin: 0 1px 0 30px;
+}
+div.container-context-bainner a:hover {
+    background-color: yellow;
+    color: rgb(55, 0, 255);
+}
+
+
+/* Codigo do Footer*/
+div.container-context-footer div {
+    width: 100%;
+    height: 180px;
+}
+div.container-context-footer {
+    width: 100%;
+    bottom: 0;
+    margin-top: 50px;
+}
+div.container-context-footer footer {
+    width: 100%;
+    height: 130px;
+    background-color: rgba(10, 10, 10);
+    bottom: 0;
+}
+div.container-context-footer address {
+    text-align: end;
+    margin: 0 20px 0 0;
+    padding: 2px;
+}
+div.container-context-footer p {
+    cursor: pointer;
+    width: auto;
+    height: auto;
+    padding: 2px;
+    color: yellow;
+    font-size: 15px;
+}
+
+
+/* Codigo do conteudo*/
+div.container-context-lorem {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+div.container-context-lorem p {
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+    font-size: 17px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+div.container-context-h1 {
+    width: 100%;
+    height: 200px;
+}
+div.container-context-h1 h1 {
+    cursor: pointer;
+    width: 50%;
+    height: 200px;
+    margin: 20px auto 20px auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.container-context-lorem div.container-context-lorem-img {
+    width: 40%;
+    height: auto;
+    margin: auto;
+}
+div.container-context-lorem div.container-context-lorem-img img {
+    width: 500px;
+    height: auto;
+    gap: 10px;
+}
+
+
+/* Codigo do Sidebar*/
+
+div.container-context-sidebar {
+    position: absolute;
+    width: 20%;
+    height: 129.3%;
+    top: 203px;
+    left: 0;
+    overflow-y: hidden;
+}
+div.container-context-sidebar div.sidebar {
+    width: auto;
+    height: 100%;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+}
+div.sidebar h3 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px 0 50px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.container-context-sidebar div.sidebar ul {
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+div.container-context-sidebar div.sidebar li {
+    width: 70%;
+    margin: 20px 0 10px 0;
+    height: auto;
+    line-height: 18px;
+    list-style: none;
+    padding: 6px;
+}
+div.container-context-sidebar div.sidebar a {
+    font-size: 15px;
+    text-decoration: none;
+    height: auto;
+    background-color: white;
+}
+div.container-context-sidebar div.sidebar a:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
