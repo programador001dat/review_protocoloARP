@@ -71,7 +71,7 @@ div.container-context-footer p {
     height: auto;
     padding: 2px;
     color: yellow;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 
@@ -155,7 +155,7 @@ div.container-context-sidebar div.sidebar li {
     padding: 6px;
 }
 div.container-context-sidebar div.sidebar a {
-    font-size: 15px;
+    font-size: 14px;
     text-decoration: none;
     height: auto;
     background-color: white;
@@ -165,6 +165,7 @@ div.container-context-sidebar div.sidebar a:hover {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
+
 
 
 
