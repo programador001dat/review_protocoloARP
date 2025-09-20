@@ -159,13 +159,14 @@ div.container-context-sidebar div.sidebar a {
     text-decoration: none;
     height: auto;
     background-color: white;
-    margin: 6px;
-    border-radius: 4px;
+    padding: 6px;
 }
 div.container-context-sidebar div.sidebar a:hover {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
+    padding: 6px;
 }
+
 
 
 
